@@ -1,0 +1,14 @@
+{
+  "name": "chart-app-backend",
+  "version": "1.0.0",
+  "description": "Chart Application Backend for my Portfolio Application",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app"
+  },
+  "author": "Aditya Kulkarni",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.2"
+  }
+}
